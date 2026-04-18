@@ -1,0 +1,11 @@
+# Binaries
+*.exe
+*.out
+/bin/
+
+# Go build cache
+*.test
+*.prof
+
+# OS
+.DS_Store
